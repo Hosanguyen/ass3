@@ -1,0 +1,971 @@
+1,23,2,Not what I expected.
+1,19,3,Overrated. 😞
+1,17,5,Well written.
+1,21,2,Amazing read! 😊
+1,4,5,A thrilling adventure!
+1,29,2,Too long...
+1,24,3,Fantastic! too complex.
+2,33,4,Heartwarming story!
+2,37,1,Not as good as I hoped. slow start but great ending!
+2,2,1,Kept me hooked! 😆
+2,10,4,An absolute gem!
+2,46,4,One of my favorites!
+2,6,3,Not my type. worth reading.
+2,40,1,One of my favorites!
+2,30,4,Slow start but great ending! 😞
+2,4,4,Disappointing. one of my favorites!
+2,47,2,Highly recommend!
+2,10,3,Wouldn't recommend.
+2,7,1,Disappointing. felt rushed. 😊
+2,37,4,Perfect for a rainy day.
+3,21,1,Kept me hooked! 😞
+3,31,3,A page-turner! 💖
+3,2,1,Disappointing. ✨
+3,13,2,Highly recommend! 😡
+3,22,4,Best book I've read this year!
+3,31,2,Overrated. 🤔
+3,47,3,Very informative.
+3,32,5,Couldn't put it down!
+4,42,3,Would read again! 🔥
+4,5,2,Highly recommend!
+4,32,4,Didn't enjoy it. highly enjoyable!
+4,2,3,Boring at times. 😍
+4,16,3,Amazing read!
+4,16,2,Loved it! superb storytelling!
+4,18,1,Very informative. 🤔
+4,22,1,Simply magical! well written.
+4,12,5,Brilliant writing!
+4,36,2,Too long...
+5,15,4,Highly recommend!
+5,12,3,Couldn't put it down! 😡
+5,13,4,Very informative.
+5,9,2,Simply magical!
+5,15,5,Would read again! boring at times.
+5,11,4,Confusing at times.
+5,12,3,Perfect for a rainy day.
+6,31,4,Not for me. could be better.
+6,42,5,Very inspiring! a masterpiece! 😆
+6,16,4,Didn't enjoy it. 💖
+6,42,5,A thought-provoking read.
+6,41,1,Overrated.
+6,33,1,Waste of time.
+6,41,3,Fantastic!
+6,9,1,Overrated.
+6,7,2,Loved it!
+6,13,1,Not my type.
+7,5,3,Best book I've read this year!
+7,21,1,Disappointing. 🤔
+7,11,1,Couldn't put it down! 😍
+7,40,5,Loved it!
+7,40,1,Slow start but great ending! 😞
+7,45,2,Boring at times.
+7,25,1,Felt rushed. 😡
+7,18,2,A page-turner!
+7,28,2,Best book I've read this year! not what i expected. 📖
+8,8,3,Great book! 😡
+8,12,3,Simply magical!
+8,44,4,Would read again! 📖
+8,41,5,Not as good as I hoped.
+8,7,1,Not what I expected.
+8,12,2,Confusing at times.
+8,9,3,Confusing at times. 💖
+8,13,5,Too complex.
+8,44,4,Not for me.
+8,5,1,A thought-provoking read. boring at times.
+8,8,2,Highly recommend!
+8,36,5,Brilliant writing! 😍
+8,30,4,Couldn't put it down! 😡
+8,2,5,Didn't enjoy it.
+9,11,5,Worth reading.
+9,31,4,Not as good as I hoped.
+9,16,1,Well written.
+9,25,4,Engaging story! ✨
+9,38,4,Wouldn't recommend.
+9,8,2,Learned a lot. 😞
+9,9,2,Not for me.
+9,10,5,Too long...
+9,11,5,Wouldn't recommend.
+9,50,4,Didn't enjoy it. 😡
+9,48,3,Learned a lot.
+10,37,3,Learned a lot. 😆
+10,20,5,Too long... 🤔
+10,16,1,Waste of time. 😍
+10,17,3,Not what I expected.
+10,1,3,Wouldn't recommend. couldn't put it down!
+10,36,4,Didn't enjoy it.
+10,11,2,Kept me hooked!
+10,37,4,Amazing read!
+10,13,1,Great book!
+10,29,1,Highly recommend! 😍
+11,46,3,A thought-provoking read.
+11,14,4,Disappointing. 😡
+11,30,1,Very inspiring!
+11,25,2,Disappointing.
+11,31,4,Brilliant writing! 😊
+11,48,1,Loved it!
+11,5,5,Brilliant writing!
+11,26,5,An absolute gem! 🔥
+12,22,4,Kept me hooked! not as good as i hoped.
+12,44,4,A thrilling adventure!
+12,15,4,Disappointing.
+12,21,1,Boring at times. 😴
+12,16,5,Felt rushed.
+12,43,4,Very informative. highly recommend! ✨
+12,19,3,Not what I expected. 😆
+12,12,1,One of my favorites! fantastic! 💖
+12,39,3,Highly recommend!
+12,10,2,Worth reading. 😆
+13,40,3,Brilliant writing! 😆
+13,34,2,Highly enjoyable!
+13,30,5,Brilliant writing!
+13,39,4,Superb storytelling! 😆
+13,40,1,Too long... one of my favorites!
+13,43,4,Engaging story! 💖
+13,28,3,Not what I expected. 😞
+13,30,1,Worth reading.
+14,2,3,Learned a lot. 🔥
+14,39,3,Confusing at times.
+14,36,1,Waste of time.
+14,26,2,Not for me. 📖
+14,43,4,An absolute gem! 😢
+14,39,4,A page-turner! 🔥
+14,32,1,Would read again! an absolute gem! 👎
+14,50,1,Overrated. would read again!
+15,15,3,Not for me. 📖
+15,49,2,A thrilling adventure!
+15,34,3,Heartwarming story!
+15,29,4,Boring at times.
+15,12,1,Not what I expected.
+15,45,5,Felt rushed. very inspiring!
+15,39,5,An absolute gem!
+16,46,5,Overrated.
+16,11,3,Well written.
+16,20,5,Not my type. 😴
+16,18,1,Well written.
+16,24,3,Too long... kept me hooked! ✨
+17,6,4,A thought-provoking read.
+17,37,4,Very inspiring! 😴
+17,36,3,Confusing at times.
+17,2,3,Wouldn't recommend. would read again! 😡
+17,6,2,Slow start but great ending!
+17,45,2,One of my favorites! one of my favorites! ✨
+17,45,1,Not what I expected.
+17,1,5,Superb storytelling! 👍
+17,28,5,Would read again! 😞
+17,39,2,Perfect for a rainy day.
+17,44,4,Not what I expected. could be better.
+17,20,2,Would read again! well written.
+17,24,1,Great book! 😍
+18,37,2,Brilliant writing! 🤔
+18,41,1,Fantastic!
+18,25,4,Wouldn't recommend.
+18,23,1,Learned a lot. 😞
+18,36,5,Brilliant writing! wouldn't recommend.
+18,8,5,Highly enjoyable! 😊
+18,10,5,Overrated.
+18,40,5,Heartwarming story!
+18,4,1,Best book I've read this year!
+18,30,1,Highly enjoyable!
+18,31,4,Kept me hooked! ✨
+19,20,5,Confusing at times. too complex.
+19,39,5,Not what I expected. a page-turner! 😞
+19,37,1,Could be better. waste of time.
+19,28,5,An absolute gem! 😊
+19,37,1,Great book!
+19,19,3,Superb storytelling! 😊
+20,2,5,Boring at times.
+20,39,5,Too long...
+20,49,2,Heartwarming story!
+20,2,3,Amazing read!
+20,29,4,A masterpiece!
+20,19,1,Engaging story!
+20,33,4,Didn't enjoy it.
+20,37,1,Boring at times. 😍
+20,5,3,Too complex. slow start but great ending!
+20,40,2,Superb storytelling!
+20,25,4,Didn't enjoy it. 😊
+20,49,4,Felt rushed. 😴
+20,50,1,Simply magical! waste of time. 😊
+20,38,3,An absolute gem! disappointing.
+21,20,3,Simply magical!
+21,39,3,One of my favorites!
+21,46,5,Kept me hooked!
+21,50,1,A thought-provoking read. 😴
+21,45,2,Superb storytelling!
+21,41,3,A thrilling adventure! 🔥
+21,43,2,Confusing at times. slow start but great ending!
+22,17,3,Not my type. 💖
+22,46,3,Very inspiring! not as good as i hoped. 😊
+22,33,2,Kept me hooked!
+22,32,2,Boring at times. 📖
+22,28,5,Very informative. disappointing.
+22,5,2,Great book!
+23,19,1,A masterpiece!
+23,44,3,Not what I expected.
+23,26,4,Too complex. 👍
+23,13,5,Not as good as I hoped.
+23,18,1,Highly enjoyable! best book i've read this year!
+23,1,1,Boring at times.
+23,50,3,Waste of time.
+23,44,1,Great book!
+23,46,5,Highly recommend!
+23,38,4,Well written.
+23,36,5,Very inspiring! confusing at times. 😆
+23,20,4,Confusing at times.
+23,10,4,Very informative. a masterpiece!
+24,29,2,Not as good as I hoped.
+24,49,2,Waste of time. loved it!
+24,34,3,Boring at times.
+24,29,5,A thrilling adventure!
+24,20,2,Heartwarming story!
+24,1,4,Highly recommend!
+24,2,3,Worth reading. too complex.
+24,41,2,Worth reading. 😞
+24,27,4,A page-turner!
+24,25,1,Engaging story!
+24,17,2,Too long... overrated. 🤔
+24,11,3,Amazing read!
+24,48,4,Engaging story!
+24,30,5,Boring at times. loved it!
+25,23,3,Simply magical!
+25,25,4,Slow start but great ending!
+25,30,1,Not for me. so much depth! 😢
+25,30,3,Disappointing.
+25,50,5,Couldn't put it down!
+25,39,5,Heartwarming story! 😊
+25,40,2,One of my favorites! 📖
+25,30,3,Overrated. 😴
+25,25,4,So much depth! 😴
+25,37,3,An absolute gem! 👎
+25,16,4,Very inspiring!
+25,11,2,Great book! 👎
+26,46,4,Felt rushed.
+26,43,4,Kept me hooked!
+26,6,3,Felt rushed. not what i expected. 🤔
+26,11,1,Could be better. 👎
+26,47,2,Very informative.
+26,14,4,Waste of time.
+27,12,4,Learned a lot.
+27,12,4,Simply magical!
+27,36,5,Perfect for a rainy day. highly recommend!
+27,2,1,Amazing read!
+27,22,5,Perfect for a rainy day.
+27,10,2,Too complex.
+27,32,1,Engaging story!
+27,36,3,Not as good as I hoped.
+27,6,4,Would read again!
+27,5,1,An absolute gem! 😢
+28,45,1,Too complex.
+28,31,3,Not for me.
+28,21,1,Amazing read!
+28,6,3,Confusing at times.
+28,38,3,Learned a lot.
+28,31,2,Kept me hooked! overrated.
+28,39,2,Learned a lot.
+28,47,1,A page-turner!
+29,5,1,Learned a lot.
+29,13,5,Not as good as I hoped. slow start but great ending!
+29,41,5,Wouldn't recommend. 🤔
+29,2,1,Not as good as I hoped.
+29,35,1,Would read again! 😆
+29,39,5,Couldn't put it down!
+29,1,4,Brilliant writing! slow start but great ending!
+29,38,2,Highly recommend! 😡
+29,12,2,Not as good as I hoped.
+29,16,2,Disappointing.
+30,22,4,Very inspiring!
+30,13,2,Slow start but great ending!
+30,26,3,Overrated.
+30,43,2,Highly enjoyable!
+30,18,3,Disappointing.
+30,41,4,Not what I expected.
+30,2,5,Best book I've read this year!
+30,43,4,Too complex. 👎
+30,9,2,Superb storytelling! 😆
+30,6,4,Not as good as I hoped.
+30,49,2,Couldn't put it down!
+30,44,5,Wouldn't recommend.
+30,32,1,One of my favorites!
+30,28,4,Wouldn't recommend.
+31,36,2,Too complex. a masterpiece! 😞
+31,34,1,Great book! 😍
+31,24,2,Superb storytelling!
+31,23,1,A masterpiece!
+31,15,3,Not for me. not what i expected.
+31,5,1,Too long... 📖
+31,17,2,Couldn't put it down! 🔥
+32,32,5,Superb storytelling! 😆
+32,30,2,Not as good as I hoped.
+32,5,3,A thrilling adventure! 😡
+32,38,5,Not as good as I hoped. great book!
+32,26,4,Best book I've read this year!
+32,20,5,A page-turner! overrated. 😡
+32,2,5,Too complex.
+32,9,3,One of my favorites!
+32,24,1,Felt rushed. 👍
+32,28,2,Kept me hooked!
+32,50,5,An absolute gem!
+32,46,2,Engaging story! heartwarming story!
+33,39,3,Wouldn't recommend. felt rushed.
+33,41,1,Very informative.
+33,9,2,Could be better.
+33,4,1,Highly recommend! ✨
+33,13,5,Amazing read!
+34,24,5,Engaging story!
+34,37,1,Confusing at times. 📖
+34,43,2,Not my type.
+34,39,3,Confusing at times.
+34,24,1,Felt rushed.
+34,29,5,Heartwarming story!
+34,34,5,Overrated. 🤔
+34,7,1,Highly enjoyable!
+34,21,3,Couldn't put it down!
+34,5,5,Disappointing.
+34,20,4,Superb storytelling!
+34,25,1,Heartwarming story! 😍
+34,13,2,Highly recommend!
+34,29,2,Would read again! 📖
+34,15,3,A page-turner! 👍
+35,31,2,Highly enjoyable! 📖
+35,32,4,Very inspiring! 📖
+35,10,2,Would read again!
+35,23,5,Too complex. 😢
+35,12,5,Simply magical! simply magical!
+35,6,2,Wouldn't recommend. 😆
+35,27,5,Learned a lot.
+35,33,1,Highly enjoyable!
+35,41,4,Could be better.
+35,12,2,Would read again!
+35,29,5,A masterpiece! 😍
+35,9,5,Brilliant writing! ✨
+35,37,5,So much depth!
+35,46,2,Brilliant writing!
+36,4,1,Worth reading.
+36,18,5,Highly enjoyable! 📖
+36,47,5,Fantastic!
+36,48,5,Simply magical!
+36,11,2,Amazing read! could be better.
+36,19,3,Worth reading.
+36,42,2,Perfect for a rainy day. not what i expected.
+36,29,2,Fantastic! 📖
+36,11,2,Highly recommend! 😊
+36,4,2,Simply magical!
+36,41,1,Boring at times.
+36,1,5,Engaging story! 💖
+36,49,3,Worth reading.
+36,35,3,Overrated.
+36,22,3,Disappointing. 😍
+37,22,2,A thought-provoking read.
+37,30,3,Couldn't put it down! 🔥
+37,47,3,A thought-provoking read.
+37,24,5,Fantastic!
+37,22,1,Best book I've read this year!
+37,4,5,Engaging story!
+38,19,3,Engaging story!
+38,32,1,A thrilling adventure! 📖
+38,45,3,Loved it!
+38,19,5,A thought-provoking read.
+38,37,2,Best book I've read this year! 😢
+38,11,2,Couldn't put it down!
+39,39,5,Brilliant writing!
+39,18,5,Brilliant writing!
+39,14,2,Fantastic!
+39,24,1,Disappointing. worth reading.
+39,20,3,Worth reading. 😞
+39,33,3,Disappointing. not what i expected.
+39,20,5,Disappointing. superb storytelling!
+40,5,5,Learned a lot. a thrilling adventure!
+40,33,5,Brilliant writing!
+40,9,4,Brilliant writing! 😆
+40,2,1,Not as good as I hoped.
+40,49,2,Kept me hooked! heartwarming story!
+40,30,2,Perfect for a rainy day.
+40,31,2,Not what I expected.
+40,20,2,Worth reading.
+40,40,3,Heartwarming story! 😞
+40,33,3,Very inspiring! 👎
+40,17,1,Highly recommend!
+40,34,3,Overrated. not for me.
+40,36,5,Heartwarming story! ✨
+40,2,1,Very informative.
+41,39,4,Superb storytelling!
+41,37,2,Kept me hooked!
+41,17,2,Not for me.
+41,17,2,Not as good as I hoped. highly recommend!
+41,3,4,A masterpiece! amazing read!
+41,39,5,Not as good as I hoped. 📖
+41,9,5,So much depth!
+42,4,1,Heartwarming story! too complex.
+42,45,1,Fantastic! very inspiring!
+42,43,3,Very informative. 😞
+42,38,1,Superb storytelling!
+42,23,3,Very inspiring!
+42,47,5,Fantastic! 🔥
+42,42,3,Loved it! 🤔
+42,4,4,Learned a lot. 😡
+42,42,5,Fantastic! 😡
+42,25,1,Great book! superb storytelling!
+42,35,2,Didn't enjoy it. 🔥
+42,18,4,Wouldn't recommend.
+42,16,1,A thought-provoking read.
+42,1,4,Not for me. not for me.
+43,38,1,Very inspiring!
+43,47,3,A masterpiece! too complex. 👎
+43,35,2,Slow start but great ending!
+43,42,2,A masterpiece! 😍
+43,27,2,Not for me. 😢
+43,38,3,Highly recommend!
+43,39,1,Too complex. ✨
+43,25,2,Learned a lot.
+43,4,5,Too long... best book i've read this year!
+43,23,5,Didn't enjoy it.
+43,3,5,Highly recommend!
+44,40,4,Best book I've read this year!
+44,17,3,Waste of time.
+44,20,3,Too complex.
+44,20,4,Worth reading.
+44,50,1,Disappointing. 😆
+44,23,5,Could be better.
+44,43,5,Best book I've read this year!
+44,46,1,Didn't enjoy it. worth reading. 🔥
+45,14,4,Not as good as I hoped.
+45,26,2,Couldn't put it down! couldn't put it down! 😴
+45,38,4,Brilliant writing! brilliant writing!
+45,39,5,Engaging story!
+45,45,2,A page-turner!
+45,30,1,A masterpiece!
+45,10,1,Highly recommend! 😡
+46,35,1,Very informative.
+46,4,3,Brilliant writing! amazing read!
+46,37,2,Slow start but great ending! too long...
+46,31,1,An absolute gem!
+46,5,3,Too long...
+47,38,3,Engaging story! 📖
+47,41,2,Too complex. 😢
+47,4,5,Fantastic!
+47,13,4,Simply magical!
+47,16,2,Worth reading.
+47,19,4,Very informative. 😢
+47,50,1,Perfect for a rainy day.
+48,2,2,Not my type.
+48,4,3,Not for me. 🔥
+48,4,4,Confusing at times.
+48,33,1,Could be better.
+48,30,1,Highly recommend! perfect for a rainy day. 💖
+48,38,1,Boring at times.
+48,9,5,Highly enjoyable! very inspiring!
+48,40,5,Very informative. 💖
+48,49,1,Very informative. 💖
+48,30,4,Highly recommend! 😍
+48,15,4,So much depth! 👍
+48,9,4,One of my favorites!
+48,2,5,Fantastic!
+48,2,1,Very inspiring!
+49,26,1,So much depth! 💖
+49,26,4,Didn't enjoy it. 😡
+49,33,4,Worth reading.
+49,49,2,A thought-provoking read.
+49,42,5,Could be better. simply magical! 😴
+49,14,1,Boring at times.
+49,10,4,Not for me.
+49,27,1,Could be better. ✨
+49,39,2,Not my type.
+49,5,5,Confusing at times.
+49,35,5,An absolute gem!
+50,32,1,An absolute gem! highly recommend!
+50,10,4,Heartwarming story!
+50,47,4,Waste of time.
+50,34,3,Too long... 💖
+50,38,3,Fantastic!
+50,46,4,Boring at times.
+50,6,5,Waste of time.
+51,20,4,Learned a lot.
+51,13,2,Waste of time.
+51,46,2,Superb storytelling! confusing at times. 😊
+51,23,3,Very inspiring!
+51,25,4,Worth reading.
+51,43,5,Fantastic! 🔥
+51,32,3,Fantastic! 🔥
+51,32,5,Confusing at times.
+52,24,4,Boring at times.
+52,17,2,Amazing read! 😊
+52,23,2,One of my favorites! 😞
+52,22,4,Very inspiring!
+52,40,3,Not as good as I hoped.
+52,24,2,Too long... 😡
+52,15,3,So much depth! 💖
+52,27,1,Highly recommend!
+52,39,5,Best book I've read this year!
+52,11,5,Worth reading. 😍
+52,13,1,Heartwarming story!
+52,17,1,Not for me.
+53,31,4,Superb storytelling! felt rushed. 😡
+53,20,1,Heartwarming story!
+53,32,3,Not as good as I hoped.
+53,31,2,A thought-provoking read. a thought-provoking read.
+53,1,2,Didn't enjoy it. would read again!
+53,29,3,Superb storytelling!
+53,19,2,Great book!
+53,49,3,Too complex. 💖
+53,1,2,One of my favorites!
+53,4,5,Very informative.
+53,21,1,Very informative. simply magical!
+53,28,3,Didn't enjoy it.
+54,27,4,Could be better.
+54,42,2,Worth reading.
+54,22,2,Simply magical! ✨
+54,4,3,Would read again!
+54,43,1,Not as good as I hoped.
+54,19,3,Not for me.
+54,35,3,Engaging story!
+54,21,5,Simply magical!
+54,43,2,Couldn't put it down!
+55,48,4,Would read again!
+55,7,4,Very informative.
+55,15,2,Too long... a thrilling adventure! 😢
+55,50,3,A thought-provoking read. 😆
+55,41,5,A thrilling adventure!
+56,37,5,Waste of time. 😞
+56,46,3,Perfect for a rainy day.
+56,10,3,Engaging story! 💖
+56,44,5,One of my favorites!
+56,12,2,Overrated. one of my favorites!
+56,37,2,Slow start but great ending!
+56,18,2,Too complex.
+56,37,4,Felt rushed.
+56,17,4,Worth reading.
+56,42,4,A thought-provoking read.
+57,12,1,Engaging story!
+57,6,5,A thrilling adventure!
+57,42,4,Fantastic! 😍
+57,9,4,Confusing at times. wouldn't recommend.
+57,49,3,A thrilling adventure!
+57,37,5,Very informative.
+57,2,3,Highly enjoyable! highly recommend! 😆
+57,26,1,Didn't enjoy it.
+57,28,3,Well written. 👍
+57,22,1,Waste of time.
+57,33,1,Highly recommend!
+57,7,2,Overrated.
+58,4,2,So much depth!
+58,40,2,Superb storytelling! 😡
+58,16,2,Not what I expected.
+58,33,1,Engaging story!
+58,24,5,Boring at times. an absolute gem!
+59,12,4,Not my type. 😴
+59,26,4,Not as good as I hoped. engaging story!
+59,44,3,Superb storytelling! not as good as i hoped. 😞
+59,7,2,Waste of time. 😞
+59,7,3,Kept me hooked! 👎
+59,26,4,Worth reading.
+59,23,5,Didn't enjoy it.
+59,36,4,Boring at times.
+59,1,5,Would read again!
+59,17,4,Amazing read! 🔥
+59,28,3,A thought-provoking read. not as good as i hoped. 😍
+60,12,3,A thought-provoking read.
+60,33,4,One of my favorites!
+60,11,1,Learned a lot. 😆
+60,38,2,Engaging story!
+60,49,1,Would read again!
+60,44,2,Simply magical! ✨
+61,33,1,Felt rushed.
+61,14,4,Highly recommend! 👍
+61,45,1,Perfect for a rainy day.
+61,13,5,Overrated.
+61,46,4,Disappointing.
+61,31,2,Learned a lot.
+61,41,1,A thrilling adventure! 🤔
+61,48,4,Too long... disappointing.
+62,20,5,So much depth!
+62,41,1,Not my type.
+62,2,3,Overrated. wouldn't recommend.
+62,37,3,So much depth!
+62,26,5,Heartwarming story!
+62,42,5,A thought-provoking read.
+62,19,5,Wouldn't recommend. not what i expected. 😊
+62,38,4,Not my type.
+62,17,2,Worth reading.
+62,22,4,Amazing read!
+62,5,3,Waste of time. 🤔
+62,44,2,Engaging story!
+62,48,5,Highly enjoyable! 🤔
+62,48,4,An absolute gem! could be better.
+62,13,2,Amazing read! 🔥
+63,50,1,Couldn't put it down! 😆
+63,15,4,Not what I expected. 🤔
+63,1,5,Perfect for a rainy day. 😡
+63,20,5,A thought-provoking read.
+63,37,3,Heartwarming story!
+63,21,2,Slow start but great ending!
+63,31,1,Overrated.
+63,35,5,Boring at times.
+64,15,1,Amazing read! too complex. 😆
+64,32,2,Worth reading. 👎
+64,37,1,Wouldn't recommend. 👍
+64,23,3,Superb storytelling!
+64,29,5,Well written.
+64,9,2,Heartwarming story! a page-turner!
+64,39,3,Not for me.
+64,7,5,Would read again! 😍
+64,24,2,Fantastic!
+65,14,3,Brilliant writing!
+65,48,3,Highly recommend!
+65,8,4,Best book I've read this year!
+65,50,4,Very inspiring! boring at times.
+65,46,2,A thought-provoking read. very informative. 😡
+65,16,5,Didn't enjoy it.
+65,19,1,Brilliant writing!
+66,48,3,Too long... didn't enjoy it.
+66,40,4,Well written.
+66,34,2,Wouldn't recommend.
+66,41,3,Highly enjoyable!
+66,47,4,A page-turner!
+66,9,1,Simply magical!
+66,40,4,Very informative.
+67,26,5,Well written. 📖
+67,10,4,Couldn't put it down!
+67,6,1,Waste of time. too long...
+67,15,2,Learned a lot. 💖
+67,21,4,Not my type.
+67,21,1,A masterpiece!
+67,31,2,Slow start but great ending!
+67,40,4,Felt rushed.
+67,48,2,Kept me hooked! heartwarming story!
+68,6,3,Well written.
+68,18,2,Well written.
+68,5,2,Loved it!
+68,27,2,Not my type. 😞
+68,31,3,Worth reading. 👍
+69,25,5,Disappointing.
+69,29,1,Fantastic!
+69,22,4,A masterpiece!
+69,17,4,Waste of time.
+69,31,5,Perfect for a rainy day. 🔥
+69,35,4,Superb storytelling!
+69,16,3,Learned a lot.
+69,25,1,Kept me hooked! 🔥
+69,1,1,One of my favorites! a page-turner!
+69,35,1,Not as good as I hoped.
+70,22,3,Engaging story!
+70,18,1,Amazing read! a masterpiece!
+70,10,5,A thrilling adventure! very inspiring! 😴
+70,42,5,Waste of time. overrated.
+70,9,3,Highly recommend! worth reading.
+71,43,5,Confusing at times. ✨
+71,9,1,Heartwarming story!
+71,7,3,Disappointing. loved it! 🔥
+71,44,1,Would read again!
+71,2,3,Heartwarming story!
+71,28,4,Amazing read! superb storytelling!
+71,43,5,Not my type. 😡
+71,5,5,Would read again! best book i've read this year!
+71,47,5,Slow start but great ending! loved it! 🤔
+71,27,5,A masterpiece! not as good as i hoped.
+71,2,2,Amazing read! kept me hooked!
+71,31,4,A thought-provoking read.
+72,5,3,Overrated. 👎
+72,28,5,Confusing at times.
+72,5,4,Perfect for a rainy day. 😆
+72,48,3,Overrated.
+72,38,2,Highly recommend!
+72,45,2,Very informative.
+72,13,2,A page-turner!
+72,13,1,A page-turner!
+72,26,1,Amazing read!
+72,47,4,Worth reading. ✨
+72,36,2,Felt rushed. could be better. 😴
+72,33,1,Couldn't put it down! 😢
+73,11,5,Not for me.
+73,35,4,Could be better.
+73,12,3,Very informative. heartwarming story!
+73,3,3,Couldn't put it down!
+73,7,4,Worth reading.
+73,15,2,Great book! 👍
+73,9,3,One of my favorites!
+73,42,1,One of my favorites! 👎
+73,7,5,Boring at times.
+73,16,3,A thrilling adventure!
+73,40,5,An absolute gem!
+74,36,3,A masterpiece! heartwarming story!
+74,38,3,Heartwarming story! couldn't put it down!
+74,35,2,Waste of time.
+74,16,3,Not for me.
+74,22,3,Wouldn't recommend. 👎
+74,4,5,Too complex. 😆
+74,11,2,Not as good as I hoped.
+74,16,4,Waste of time. 👎
+74,49,4,Perfect for a rainy day. 👎
+74,5,1,So much depth! 😴
+74,50,2,Perfect for a rainy day.
+74,31,1,Fantastic!
+74,15,4,One of my favorites!
+74,18,3,Couldn't put it down! so much depth! 😡
+74,28,3,A masterpiece! overrated.
+75,12,1,Slow start but great ending! one of my favorites!
+75,20,1,Slow start but great ending! 📖
+75,47,4,Not for me. a page-turner!
+75,35,3,Very inspiring!
+75,36,2,One of my favorites! highly recommend! 🔥
+75,31,4,Felt rushed. one of my favorites!
+75,17,1,Heartwarming story!
+76,1,4,A thrilling adventure!
+76,24,4,Not for me.
+76,23,2,Loved it! 💖
+76,11,2,A thrilling adventure!
+76,32,3,Not as good as I hoped.
+76,10,2,Could be better.
+76,44,1,A thrilling adventure!
+76,48,2,Didn't enjoy it.
+76,46,1,Could be better.
+76,31,1,Couldn't put it down! 👎
+76,30,1,Disappointing.
+76,43,1,So much depth! ✨
+76,48,5,An absolute gem!
+76,8,4,One of my favorites!
+77,18,1,Could be better.
+77,3,3,Amazing read!
+77,28,2,Too long... 💖
+77,45,5,Perfect for a rainy day.
+77,8,5,Overrated.
+77,26,2,Superb storytelling!
+77,15,3,Wouldn't recommend. perfect for a rainy day.
+77,48,1,Slow start but great ending!
+77,6,5,Fantastic! could be better.
+77,27,5,Couldn't put it down!
+77,41,3,Perfect for a rainy day.
+77,39,2,Felt rushed. 👎
+77,8,1,Confusing at times. 🔥
+77,50,1,A masterpiece!
+78,23,2,Boring at times. 🤔
+78,10,3,Couldn't put it down!
+78,31,4,Very informative.
+78,48,4,Fantastic!
+78,4,3,Kept me hooked!
+78,20,5,Best book I've read this year!
+78,22,3,A thought-provoking read.
+79,35,1,Couldn't put it down!
+79,42,1,Could be better.
+79,44,3,Slow start but great ending! fantastic!
+79,3,1,A thought-provoking read. wouldn't recommend.
+79,46,1,Fantastic!
+79,38,5,Didn't enjoy it.
+79,16,2,Best book I've read this year!
+79,46,1,Felt rushed.
+79,12,4,Slow start but great ending!
+79,3,2,Superb storytelling!
+79,37,4,Not as good as I hoped.
+79,39,1,Well written.
+79,44,4,Disappointing. 😴
+79,7,2,Overrated. 🔥
+80,34,5,Not as good as I hoped. not my type.
+80,13,2,Well written. not as good as i hoped.
+80,27,5,Very inspiring! 👍
+80,29,2,Disappointing. could be better.
+80,35,1,Boring at times. ✨
+80,17,2,Great book!
+80,15,4,Too complex. 😴
+80,29,4,Kept me hooked! ✨
+80,18,3,Not as good as I hoped. felt rushed.
+80,6,1,Learned a lot.
+80,23,5,A page-turner!
+81,17,2,Highly enjoyable!
+81,22,3,Boring at times. perfect for a rainy day.
+81,25,5,Didn't enjoy it.
+81,22,3,Too long...
+81,9,4,Very informative.
+81,23,2,Overrated.
+81,44,3,Disappointing.
+81,1,4,Very inspiring! great book!
+82,40,5,Highly recommend! 😴
+82,25,4,Disappointing. ✨
+82,20,5,Too long... 💖
+82,43,2,Heartwarming story!
+82,13,4,Great book! 👎
+82,14,5,Very inspiring!
+82,24,3,Well written.
+82,23,4,Fantastic!
+82,35,1,Highly recommend! perfect for a rainy day. 😡
+83,12,4,Loved it!
+83,5,3,Worth reading.
+83,36,2,Perfect for a rainy day. 😆
+83,26,2,Boring at times. amazing read! 😞
+83,41,3,Well written.
+83,28,5,Very inspiring!
+83,11,3,Great book!
+83,13,5,Waste of time.
+83,17,1,Worth reading. too long...
+83,8,1,A thrilling adventure!
+83,7,2,A masterpiece!
+83,21,1,Engaging story! 💖
+83,7,2,Worth reading.
+83,17,2,One of my favorites! too complex.
+83,37,3,Very informative.
+84,19,2,So much depth!
+84,17,1,A thought-provoking read.
+84,10,5,A thought-provoking read. 😞
+84,13,4,Fantastic!
+84,44,5,Disappointing. not as good as i hoped.
+84,5,1,Heartwarming story!
+84,8,4,Wouldn't recommend.
+84,10,4,Didn't enjoy it. 😊
+84,21,1,Brilliant writing! 📖
+84,21,5,Wouldn't recommend.
+84,7,3,Boring at times.
+84,2,5,Would read again!
+85,24,4,Best book I've read this year! 👎
+85,44,4,An absolute gem! an absolute gem! 😆
+85,15,3,Boring at times.
+85,46,4,Learned a lot.
+85,43,2,Not for me.
+85,28,3,Very inspiring! wouldn't recommend.
+85,45,5,An absolute gem! too complex.
+85,2,2,Not what I expected. 😢
+85,8,5,Loved it!
+85,46,5,Perfect for a rainy day.
+85,5,3,Boring at times.
+85,32,4,Amazing read! 📖
+86,42,3,A masterpiece! worth reading.
+86,2,4,Not for me.
+86,44,5,Didn't enjoy it.
+86,11,5,Overrated.
+86,6,4,A thought-provoking read.
+86,20,5,Highly enjoyable!
+86,5,4,Great book!
+86,44,3,Engaging story!
+86,45,4,Loved it! boring at times. 🤔
+86,21,2,One of my favorites! ✨
+87,7,3,Could be better.
+87,18,1,Heartwarming story!
+87,34,4,Not what I expected. worth reading. 👎
+87,18,1,Boring at times. 🤔
+87,48,4,Heartwarming story! too complex.
+87,46,2,Loved it!
+87,14,3,Slow start but great ending! 👍
+87,37,2,Not as good as I hoped.
+87,17,1,Didn't enjoy it. would read again! 🤔
+87,6,4,Brilliant writing!
+87,31,2,Couldn't put it down!
+87,19,2,Heartwarming story! disappointing.
+87,45,4,Engaging story! a masterpiece! 😴
+87,6,2,Boring at times. best book i've read this year!
+88,23,1,Not as good as I hoped.
+88,10,4,Fantastic! 💖
+88,3,4,Loved it!
+88,7,5,Boring at times.
+88,44,5,One of my favorites!
+88,18,2,Very inspiring!
+88,2,1,Could be better. 👍
+88,7,5,Waste of time. 🔥
+88,40,1,A thought-provoking read.
+88,13,4,Disappointing. 😆
+88,20,3,Heartwarming story! 😴
+89,30,3,Too long... 😍
+89,2,2,Great book!
+89,23,4,Not for me.
+89,35,2,Not as good as I hoped. disappointing.
+89,30,5,A page-turner!
+89,2,4,Too complex.
+89,16,1,One of my favorites!
+89,45,1,Didn't enjoy it.
+89,44,2,Heartwarming story!
+89,6,3,Well written.
+89,6,5,Boring at times. highly enjoyable!
+89,26,1,Superb storytelling! fantastic! 💖
+90,50,1,Boring at times. 😡
+90,47,4,Very inspiring! simply magical! 👍
+90,19,2,A thought-provoking read.
+90,22,4,Could be better. 😍
+90,34,3,One of my favorites! superb storytelling!
+90,4,1,Felt rushed.
+90,44,4,Not what I expected.
+90,14,1,Waste of time.
+90,32,2,An absolute gem!
+90,26,3,Could be better. great book!
+90,6,5,Highly enjoyable!
+90,5,2,Very informative.
+90,29,3,Engaging story! heartwarming story!
+91,47,4,Not my type. amazing read! 👎
+91,1,4,Could be better. engaging story! ✨
+91,24,1,Not my type.
+91,31,3,Great book!
+91,6,1,So much depth! 🤔
+91,15,5,Wouldn't recommend.
+91,21,4,Confusing at times. 👎
+91,35,3,Highly recommend! 😡
+91,10,2,Very informative.
+91,45,2,Slow start but great ending!
+91,43,2,Very inspiring! 💖
+91,1,5,Didn't enjoy it.
+91,13,3,Boring at times. 😊
+91,30,1,Well written.
+92,35,2,Not as good as I hoped. 👍
+92,48,1,Not what I expected. 😡
+92,27,1,Worth reading.
+92,36,5,A page-turner! 😞
+92,4,4,Fantastic! well written. 😊
+92,6,4,Engaging story! simply magical! 🤔
+92,35,1,Fantastic!
+92,46,5,Too complex.
+92,11,2,Wouldn't recommend. highly enjoyable! 😡
+92,8,4,Highly recommend! 😞
+93,32,1,Superb storytelling! a masterpiece! 😊
+93,25,1,Too complex.
+93,46,1,Disappointing.
+93,16,3,Confusing at times.
+93,14,5,Engaging story! worth reading.
+94,40,2,Perfect for a rainy day.
+94,25,5,Heartwarming story!
+94,50,2,Brilliant writing!
+94,22,1,Engaging story! a masterpiece!
+94,5,5,Highly enjoyable! 😍
+95,44,3,Not what I expected.
+95,26,1,Very inspiring!
+95,31,2,Heartwarming story!
+95,12,3,Great book!
+95,21,2,Very informative.
+95,13,1,Wouldn't recommend. ✨
+95,2,3,Boring at times. 😆
+96,37,1,Heartwarming story! best book i've read this year!
+96,47,2,Great book! 😢
+96,21,2,A masterpiece!
+96,46,4,Felt rushed.
+96,50,1,Could be better. 👎
+96,45,3,Too long... brilliant writing! 😆
+96,45,2,Too complex. amazing read!
+96,17,2,Boring at times.
+96,19,1,Not what I expected.
+96,47,3,One of my favorites!
+96,27,4,Too complex.
+96,16,2,Too complex.
+96,39,4,Worth reading.
+96,46,1,A thought-provoking read.
+97,35,4,Fantastic! slow start but great ending! 😆
+97,15,1,Not what I expected.
+97,12,3,Superb storytelling!
+97,28,5,Superb storytelling!
+97,39,2,Slow start but great ending!
+98,20,4,Simply magical!
+98,43,2,Engaging story!
+98,12,2,Well written. very inspiring! 😡
+98,23,4,Wouldn't recommend.
+98,1,3,Would read again!
+98,7,4,Disappointing.
+98,36,4,A masterpiece!
+98,13,2,Loved it! 📖
+98,41,4,Highly recommend!
+98,2,2,Highly enjoyable!
+99,5,4,Not for me.
+99,13,4,Perfect for a rainy day.
+99,27,2,Highly enjoyable! boring at times.
+99,17,5,Overrated.
+99,7,3,Kept me hooked!
+100,34,2,Worth reading.
+100,3,1,Disappointing. 🤔
+100,33,1,A masterpiece! 🤔
+100,14,4,Not for me.
+100,10,3,Overrated. 😞
+100,19,1,Kept me hooked!
+100,37,2,Brilliant writing!
+100,7,4,Best book I've read this year!
+100,46,5,Slow start but great ending! best book i've read this year!
