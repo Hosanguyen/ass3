@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import numpy as np
-import tensorflow as t
+import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import pickle
 import os
