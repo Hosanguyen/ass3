@@ -9,4 +9,6 @@ From this directory (where you see README.py)
 - `cd ..` :comeback to the working directory
 - `pip install -r requirements_OKOK.txt`
 
-ok runing runing
+- run server.py and run indexsentiment.html to test
+
+ok run, run, run

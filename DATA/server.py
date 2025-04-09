@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
@@ -6,6 +7,7 @@ import pickle
 import os
 
 app = Flask(__name__)
+CORS(app)
 
 # Constants from training
 max_words = 10000

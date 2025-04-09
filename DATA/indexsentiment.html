@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đánh giá Sản phẩm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        .product {
+            display: flex;
+            margin-bottom: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        .product-image {
+            width: 200px;
+            height: 200px;
+            background-color: #eee;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 4px;
+            margin-right: 20px;
+        }
+        .product-details h1 {
+            margin-top: 0;
+            color: #333;
+        }
+        .product-details p {
+            color: #666;
+            line-height: 1.5;
+        }
+        .price {
+            font-weight: bold;
+            font-size: 1.2rem;
+            color: #e74c3c;
+        }
+        .comment-form {
+            margin-bottom: 20px;
+        }
+        .comment-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+        .comments-container {
+            margin-top: 20px;
+        }
+        .comment {
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .comment-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .user-name {
+            font-weight: bold;
+        }
+        .sentiment {
+            padding: 3px 8px;
+            border-radius: 10px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+        .sentiment.positive {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .sentiment.neutral {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        .sentiment.negative {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .comment-time {
+            font-size: 0.8rem;
+            color: #999;
+        }
+        .comment-text {
+            line-height: 1.4;
+        }
+        .loading {
+            display: none;
+            margin-left: 10px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="product">
+            <div class="product-image">
+                <img src="/api/placeholder/200/200" alt="Sản phẩm">
+            </div>
+            <div class="product-details">
+                <h1>Điện thoại Galaxy S25 Ultra</h1>
+                <p>Điện thoại thông minh cao cấp với camera 200MP, màn hình 6.8 inch AMOLED, chip Snapdragon 8 Gen 3, pin 5000mAh và sạc nhanh 45W. Thiết kế sang trọng với khung titanium và mặt lưng kính.</p>
+                <div class="price">25.990.000 ₫</div>
+            </div>
+        </div>
+
+        <h2>Bình luận</h2>
+        <div class="comment-form">
+            <textarea class="comment-input" id="commentInput" placeholder="Viết bình luận của bạn..." rows="3"></textarea>
+            <button id="submitComment">Gửi bình luận</button>
+            <span class="loading" id="loadingIndicator">Đang phân tích cảm xúc...</span>
+        </div>
+
+        <div class="comments-container" id="commentsContainer">
+            <!-- Comments will be displayed here -->
+            <div class="comment">
+                <div class="comment-header">
+                    <span class="user-name">Minh Tuấn</span>
+                    <span class="sentiment positive">Tích cực</span>
+                </div>
+                <div class="comment-time">Hôm nay, 10:45</div>
+                <p class="comment-text">Tôi rất hài lòng với chiếc điện thoại này. Camera chụp ảnh rất đẹp và pin trâu!</p>
+            </div>
+            <div class="comment">
+                <div class="comment-header">
+                    <span class="user-name">Thu Hà</span>
+                    <span class="sentiment neutral">Trung lập</span>
+                </div>
+                <div class="comment-time">Hôm qua, 18:32</div>
+                <p class="comment-text">Điện thoại ổn nhưng giá hơi cao so với các điện thoại cùng cấu hình.</p>
+            </div>
+            <div class="comment">
+                <div class="comment-header">
+                    <span class="user-name">Văn Dũng</span>
+                    <span class="sentiment negative">Tiêu cực</span>
+                </div>
+                <div class="comment-time">2 ngày trước, 14:15</div>
+                <p class="comment-text">Thất vọng về thời lượng pin, không được như quảng cáo. Máy nóng khi chơi game.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const commentInput = document.getElementById('commentInput');
+            const submitButton = document.getElementById('submitComment');
+            const commentsContainer = document.getElementById('commentsContainer');
+            const loadingIndicator = document.getElementById('loadingIndicator');
+
+            // Add event listener for submit button
+            submitButton.addEventListener('click', submitComment);
+            
+            // Add event listener for Enter key press
+            commentInput.addEventListener('keydown', function(event) {
+                if (event.key === 'Enter' && !event.shiftKey) {
+                    event.preventDefault();
+                    submitComment();
+                }
+            });
+
+            function submitComment() {
+                const commentText = commentInput.value.trim();
+                if (!commentText) return;
+
+                // Show loading indicator
+                loadingIndicator.style.display = 'inline';
+                
+                // Call API to predict sentiment
+                fetch('http://127.0.0.1:5000/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        comment: commentText
+                    })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Create new comment with sentiment
+                    console.log(data);
+                    if (!data || !data.sentiment) {
+                        throw new Error('Invalid response from server');
+                    }
+                    addComment(commentText, data.sentiment);
+                    
+                    // Clear input field
+                    commentInput.value = '';
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    // For demonstration purposes, we'll simulate a response
+                    // In real application, you'd handle the error properly
+                    const mockSentiments = ['positive', 'neutral', 'negative'];
+                    const randomSentiment = mockSentiments[Math.floor(Math.random() * mockSentiments.length)];
+                    addComment(commentText, randomSentiment);
+                    commentInput.value = '';
+                })
+                .finally(() => {
+                    // Hide loading indicator
+                    loadingIndicator.style.display = 'none';
+                });
+            }
+
+            function addComment(text, sentimentType) {
+                // Create comment elements
+                const commentDiv = document.createElement('div');
+                commentDiv.className = 'comment';
+                
+                // Create comment header
+                const commentHeader = document.createElement('div');
+                commentHeader.className = 'comment-header';
+                
+                // Add user name
+                const userName = document.createElement('span');
+                userName.className = 'user-name';
+                userName.textContent = 'Bạn';
+                
+                // Add sentiment label
+                const sentiment = document.createElement('span');
+                sentiment.className = `sentiment ${sentimentType}`;
+                sentiment.textContent = getSentimentLabel(sentimentType);
+                
+                // Add elements to header
+                commentHeader.appendChild(userName);
+                commentHeader.appendChild(sentiment);
+                
+                // Create time element
+                const timeElement = document.createElement('div');
+                timeElement.className = 'comment-time';
+                timeElement.textContent = 'Vừa xong';
+                
+                // Create comment text
+                const commentText = document.createElement('p');
+                commentText.className = 'comment-text';
+                commentText.textContent = text;
+                
+                // Append all elements to comment div
+                commentDiv.appendChild(commentHeader);
+                commentDiv.appendChild(timeElement);
+                commentDiv.appendChild(commentText);
+                
+                // Add comment to the top of the list
+                commentsContainer.insertBefore(commentDiv, commentsContainer.firstChild);
+            }
+
+            function getSentimentLabel(sentiment) {
+                switch(sentiment) {
+                    case 'positive': return 'Tích cực';
+                    case 'negative': return 'Tiêu cực';
+                    case 'neutral': return 'Trung lập';
+                    default: return 'Không xác định';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
